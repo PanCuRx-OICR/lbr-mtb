@@ -1,0 +1,268 @@
+donor	alteration_class	oncokb_level	indication	treatment	gene	alteration_type
+BTC0015	V600	3.5	Erdheim-Chester Disease	Vemurafenib	BRAF	V600E
+BTC0015	V600	3.5	Melanoma	Vemurafenib + Atezolizumab + Cobimetinib	BRAF	V600E
+BTC0015	V600E	1	All Solid Tumors (excluding Colorectal Cancer)	Dabrafenib + Trametinib	BRAF	V600E
+BTC0015	V600E	3.5	Anaplastic Thyroid Cancer	Dabrafenib + Trametinib	BRAF	V600E
+BTC0015	V600E	1	Biliary Tract Cancer, NOS	Dabrafenib + Trametinib	BRAF	V600E
+BTC0015	V600E	3.5	Colorectal Cancer	Encorafenib + Cetuximab	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Dabrafenib	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Vemurafenib	BRAF	V600E
+BTC0015	V600E	3.5	Non-Small Cell Lung Cancer	Dabrafenib + Trametinib	BRAF	V600E
+BTC0015	V600E	3.5	Non-Small Cell Lung Cancer	Encorafenib + Binimetinib	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Dabrafenib + Trametinib	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Encorafenib + Binimetinib	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Trametinib	BRAF	V600E
+BTC0015	V600E	3.5	Melanoma	Vemurafenib + Cobimetinib	BRAF	V600E
+BTC0024	Amplification	3.5	Breast Cancer	Ado-Trastuzumab Emtansine	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Ado-Trastuzumab Emtansine	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Ado-Trastuzumab Emtansine	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Lapatinib + Capecitabine, Lapatinib + Letrozole	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Lapatinib + Capecitabine, Lapatinib + Letrozole	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Lapatinib + Capecitabine, Lapatinib + Letrozole	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Margetuximab + Chemotherapy	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Margetuximab + Chemotherapy	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Margetuximab + Chemotherapy	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Neratinib, Neratinib + Capecitabine	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Neratinib, Neratinib + Capecitabine	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Neratinib, Neratinib + Capecitabine	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Trastuzumab + Pertuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Trastuzumab + Pertuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Trastuzumab + Pertuzumab + Chemotherapy	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Trastuzumab + Tucatinib + Capecitabine	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Trastuzumab + Tucatinib + Capecitabine	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Trastuzumab + Tucatinib + Capecitabine	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Trastuzumab Deruxtecan	ERBB2	FISH
+BTC0024	Amplification	3.5	Breast Cancer	Trastuzumab, Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Breast Cancer	Trastuzumab, Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Breast Cancer	Trastuzumab, Trastuzumab + Chemotherapy	ERBB2	FISH
+BTC0024	Amplification	3.5	Colorectal Cancer	Tucatinib + Trastuzumab	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Colorectal Cancer	Tucatinib + Trastuzumab	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Colorectal Cancer	Tucatinib + Trastuzumab	ERBB2	FISH
+BTC0024	Amplification	3.5	Esophagogastric Cancer	Pembrolizumab + Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Esophagogastric Cancer	Pembrolizumab + Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Esophagogastric Cancer	Pembrolizumab + Trastuzumab + Chemotherapy	ERBB2	FISH
+BTC0024	Amplification	3.5	Esophagogastric Cancer	Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Esophagogastric Cancer	Trastuzumab + Chemotherapy	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Esophagogastric Cancer	Trastuzumab + Chemotherapy	ERBB2	FISH
+BTC0024	Amplification	3.5	Esophagogastric Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Esophagogastric Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Esophagogastric Cancer	Trastuzumab Deruxtecan	ERBB2	FISH
+BTC0010	Fusions	1	Cholangiocarcinoma	Futibatinib	FGFR2	FGFR2
+BTC0018	Fusions	1	Cholangiocarcinoma	Futibatinib	FGFR2	FGFR2
+BTC0026	Fusions	1	Cholangiocarcinoma	Futibatinib	FGFR2	FGFR2
+BTC0070	Fusions	1	Cholangiocarcinoma	Futibatinib	FGFR2	FGFR2
+BTC0010	Fusions	1	Cholangiocarcinoma	Pemigatinib	FGFR2	FGFR2
+BTC0018	Fusions	1	Cholangiocarcinoma	Pemigatinib	FGFR2	FGFR2
+BTC0026	Fusions	1	Cholangiocarcinoma	Pemigatinib	FGFR2	FGFR2
+BTC0070	Fusions	1	Cholangiocarcinoma	Pemigatinib	FGFR2	FGFR2
+BTC0018	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0018	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0018	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0028	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0042	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0042	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0042	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0054	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0054	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0054	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132C
+BTC0064	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0064	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0064	R132	1	Intrahepatic Cholangiocarcinoma, Cholangiocarcinoma	Ivosidenib	IDH1	R132H
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132C
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Ivosidenib	IDH1	R132H
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0028	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0042	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0054	R132C	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132C
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0018	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0064	R132H	3.5	Acute Myeloid Leukemia	Olutasidenib	IDH1	R132H
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0028	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0042	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0054	R132C	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132C
+BTC0018	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0018	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0018	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0064	R132H	3.5	Myelodysplastic Syndromes	Ivosidenib	IDH1	R132H
+BTC0013	MSI-H	1	All Solid Tumors	Pembrolizumab	MSI	MSI
+BTC0045	MSI-H	1	All Solid Tumors	Pembrolizumab	MSI	MSI
+BTC0013	MSI-H	3.5	Colorectal Cancer	Ipilimumab + Nivolumab	MSI	MSI
+BTC0045	MSI-H	3.5	Colorectal Cancer	Ipilimumab + Nivolumab	MSI	MSI
+BTC0013	MSI-H	3.5	Colorectal Cancer	Nivolumab	MSI	MSI
+BTC0045	MSI-H	3.5	Colorectal Cancer	Nivolumab	MSI	MSI
+BTC0013	MSI-H	3.5	Endometrial Cancer	Dostarlimab + Carboplatin + Paclitaxel	MSI	MSI
+BTC0045	MSI-H	3.5	Endometrial Cancer	Dostarlimab + Carboplatin + Paclitaxel	MSI	MSI
+BTC0013	TMB-H	1	All Solid Tumors	Pembrolizumab	TMB	TMB
+BTC0014	TMB-H	1	All Solid Tumors	Pembrolizumab	TMB	TMB
+BTC0025	TMB-H	1	All Solid Tumors	Pembrolizumab	TMB	TMB
+BTC0045	TMB-H	1	All Solid Tumors	Pembrolizumab	TMB	TMB
+BTC0064	E542K	3.5	Breast Cancer	Alpelisib + Fulvestrant	PIK3CA	E542K
+BTC0027	E545K	3.5	Breast Cancer	Alpelisib + Fulvestrant	PIK3CA	E545K
+BTC0013	H1047R	3.5	Breast Cancer	Alpelisib + Fulvestrant	PIK3CA	H1047R
+BTC0013	H1047R	3.5	Breast Cancer	Capivasertib + Fulvestrant	PIK3CA	H1047R
+BTC0027	E545K	3.5	Breast Cancer	Capivasertib + Fulvestrant	PIK3CA	E545K
+BTC0064	E542K	3.5	Breast Cancer	Capivasertib + Fulvestrant	PIK3CA	E542K
+BTC0016	Oncogenic Mutations	3.5	Breast Cancer	Capivasertib + Fulvestrant	PTEN	homozygous deletion
+BTC0052	Oncogenic Mutations	3.5	Breast Cancer	Capivasertib + Fulvestrant	PTEN	homozygous deletion
+BTC0080	Oncogenic Mutations	3.5	Breast Cancer	Capivasertib + Fulvestrant	PTEN	homozygous deletion
+BTC0015	V600	3.5	Langerhans Cell Histiocytosis	Vemurafenib, Dabrafenib	BRAF	V600E
+BTC0015	V600E	3.5	Colorectal Cancer	Encorafenib + Panitumumab	BRAF	V600E
+BTC0015	V600E	3.5	Diffuse Glioma	Vemurafenib + Cobimetinib	BRAF	V600E
+BTC0015	V600E	3.5	Encapsulated Glioma	Vemurafenib + Cobimetinib	BRAF	V600E
+BTC0015	V600E	3.5	Hairy Cell Leukemia	Vemurafenib	BRAF	V600E
+BTC0015	V600E	3.5	Pilocytic Astrocytoma	Selumetinib	BRAF	V600E
+BTC0015	V600E	3.5	Pleomorphic Xanthoastrocytoma, Pilocytic Astrocytoma, Ganglioglioma	Vemurafenib + Cobimetinib	BRAF	V600E
+BTC0024	Amplification	2	Biliary Tract Cancer, NOS	Trastuzumab + Pertuzumab	ERBB2	strong amplification
+BTC0033	Amplification	2	Biliary Tract Cancer, NOS	Trastuzumab + Pertuzumab	ERBB2	strong amplification
+BTC0038	Amplification	2	Biliary Tract Cancer, NOS	Trastuzumab + Pertuzumab	ERBB2	FISH
+BTC0024	Amplification	3.5	Colorectal Cancer	Lapatinib + Trastuzumab	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Colorectal Cancer	Lapatinib + Trastuzumab	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Colorectal Cancer	Lapatinib + Trastuzumab	ERBB2	FISH
+BTC0024	Amplification	3.5	Colorectal Cancer	Trastuzumab + Pertuzumab	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Colorectal Cancer	Trastuzumab + Pertuzumab	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Colorectal Cancer	Trastuzumab + Pertuzumab	ERBB2	FISH
+BTC0024	Amplification	3.5	Colorectal Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Colorectal Cancer	Trastuzumab Deruxtecan	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Colorectal Cancer	Trastuzumab Deruxtecan	ERBB2	FISH
+BTC0024	Amplification	3.5	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Trastuzumab + Carboplatin-Taxol Regimen	ERBB2	strong amplification
+BTC0033	Amplification	3.5	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Trastuzumab + Carboplatin-Taxol Regimen	ERBB2	strong amplification
+BTC0038	Amplification	3.5	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Trastuzumab + Carboplatin-Taxol Regimen	ERBB2	FISH
+BTC0019	G12D	3.5	Erdheim-Chester Disease	Cobimetinib, Trametinib	KRAS	G12D
+BTC0019	G12D	3.5	Erdheim-Chester Disease	Cobimetinib, Trametinib	KRAS	G12D
+BTC0077	G12R	3.5	Erdheim-Chester Disease	Cobimetinib, Trametinib	KRAS	G12R
+BTC0077	G12R	3.5	Erdheim-Chester Disease	Cobimetinib, Trametinib	KRAS	G12R
+BTC0019	G12D	3.5	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	KRAS	G12D
+BTC0019	G12D	3.5	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	KRAS	G12D
+BTC0077	G12R	3.5	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	KRAS	G12R
+BTC0077	G12R	3.5	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	KRAS	G12R
+BTC0019	G12D	3.5	Rosai-Dorfman Disease	Cobimetinib, Trametinib	KRAS	G12D
+BTC0019	G12D	3.5	Rosai-Dorfman Disease	Cobimetinib, Trametinib	KRAS	G12D
+BTC0077	G12R	3.5	Rosai-Dorfman Disease	Cobimetinib, Trametinib	KRAS	G12R
+BTC0077	G12R	3.5	Rosai-Dorfman Disease	Cobimetinib, Trametinib	KRAS	G12R
+BTC0011	Amplification	3.5	Non-Small Cell Lung Cancer	Capmatinib	MET	strong amplification
+BTC0024	Amplification	3.5	Non-Small Cell Lung Cancer	Capmatinib	MET	strong amplification
+BTC0011	Amplification	3.5	Non-Small Cell Lung Cancer	Crizotinib	MET	strong amplification
+BTC0024	Amplification	3.5	Non-Small Cell Lung Cancer	Crizotinib	MET	strong amplification
+BTC0011	Amplification	3.5	Non-Small Cell Lung Cancer	Tepotinib	MET	strong amplification
+BTC0024	Amplification	3.5	Non-Small Cell Lung Cancer	Tepotinib	MET	strong amplification
+BTC0064	E542K	3.5	Breast Cancer	Alpelisib + Fulvestrant	PIK3CA	E542K
+BTC0027	E545K	3.5	Breast Cancer	Alpelisib + Fulvestrant	PIK3CA	E545K
+BTC0015	V600	3.5	Histiocytosis	Vemurafenib, Dabrafenib	BRAF	V600E
+BTC0020	Amplification	3.5	Esophagogastric Cancer	Cetuximab, Cetuximab + Chemotherapy, Panitumumab, Panitumumab + Chemotherapy	EGFR	strong amplification
+BTC0010	Fusions	3	Cholangiocarcinoma	RLY-4008	FGFR2	FGFR2
+BTC0018	Fusions	3	Cholangiocarcinoma	RLY-4008	FGFR2	FGFR2
+BTC0026	Fusions	3	Cholangiocarcinoma	RLY-4008	FGFR2	FGFR2
+BTC0070	Fusions	3	Cholangiocarcinoma	RLY-4008	FGFR2	FGFR2
+BTC0018	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0018	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0018	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0028	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0042	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0042	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0042	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0054	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0054	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0054	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132C
+BTC0064	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0064	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0064	R132	3.5	Glioma (excluding Oligodendroglioma)	Ivosidenib	IDH1	R132H
+BTC0018	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0018	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0018	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0028	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0042	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0042	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0042	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0054	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0054	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0054	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132C
+BTC0064	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0064	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0064	R132	3.5	Oligodendroglioma, Astrocytoma	Vorasidenib	IDH1	R132H
+BTC0019	G12D	3.5	Non-Small Cell Lung Cancer	RMC-6236	KRAS	G12D
+BTC0019	G12D	3.5	Non-Small Cell Lung Cancer	RMC-6236	KRAS	G12D
+BTC0077	G12R	3.5	Non-Small Cell Lung Cancer	RMC-6236	KRAS	G12R
+BTC0077	G12R	3.5	Non-Small Cell Lung Cancer	RMC-6236	KRAS	G12R
+BTC0019	G12D	3.5	Pancreatic Adenocarcinoma	RMC-6236	KRAS	G12D
+BTC0019	G12D	3.5	Pancreatic Adenocarcinoma	RMC-6236	KRAS	G12D
+BTC0077	G12R	3.5	Pancreatic Adenocarcinoma	RMC-6236	KRAS	G12R
+BTC0077	G12R	3.5	Pancreatic Adenocarcinoma	RMC-6236	KRAS	G12R
+BTC0019	G12D	3.5	Histiocytosis	Cobimetinib, Trametinib	KRAS	G12D
+BTC0019	G12D	3.5	Histiocytosis	Cobimetinib, Trametinib	KRAS	G12D
+BTC0077	G12R	3.5	Histiocytosis	Cobimetinib, Trametinib	KRAS	G12R
+BTC0077	G12R	3.5	Histiocytosis	Cobimetinib, Trametinib	KRAS	G12R
+BTC0014	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0034	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0034	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0039	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0057	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0078	Amplification	3.5	Dedifferentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0014	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0034	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0034	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0039	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0057	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0078	Amplification	3.5	Intimal Sarcoma	Milademetan	MDM2	strong amplification
+BTC0014	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0034	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0034	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0039	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0057	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0078	Amplification	3.5	Well-Differentiated Liposarcoma	Brigimadlin	MDM2	strong amplification
+BTC0011	Amplification	3.5	Non-Small Cell Lung Cancer	Telisotuzumab Vedotin	MET	strong amplification
+BTC0024	Amplification	3.5	Non-Small Cell Lung Cancer	Telisotuzumab Vedotin	MET	strong amplification

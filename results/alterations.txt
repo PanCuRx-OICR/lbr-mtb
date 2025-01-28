@@ -1,0 +1,74 @@
+BTC_ID	gene	variant_type	therapy	recommendation_source
+BTC_0011	CDK6	strong amplification	CDK4/6 inhibitor	MTB
+BTC_0017	PBRM1	indel	PARPi	MTB
+BTC_0024	CDK6	strong amplification	CDK4/6 inhibitor	MTB
+BTC_0014	STK11	indel	mTOR inhibitor	MTB
+BTC_0014	STK11	indel	DDR repair	MTB
+BTC_0034	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0037	HAS2	strong amplification	HAS2 inhibitor	MTB
+BTC_0036	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0038	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0044	MTAP	NA	PRMT5 inhibitor	MTB
+BTC_0042	MTAP	NA	PRMT5 inhibitor	MTB
+BTC_0056	HRD	HRD	PARPi	MTB
+BTC_0059	MTAP	CNV	PRMT5 inhibitor	MTB
+BTC_0058	MTAP	CNV	PRMT5 inhibitor	MTB
+BTC_0061	HRD	HRD	PARPi	MTB
+BTC_0067	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0062	RASGRF2	fusion	MEK inhibitor	MTB
+BTC_0063	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0049	BAP1	SNV	PARPi	MTB
+BTC_0069	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0069	MTAP	deletion	MAT2A inhibitor	MTB
+BTC_0072	HRD	HRD	PARPi	MTB
+BTC_0078	CCNE1	strong amplification	CCNE1 targeting	MTB
+BTC_0080	HRD	HRD	PARPi	MTB
+BTC_0077	MTAP	deletion	PRMT5 inhibitor	MTB
+BTC_0013	MLH1	deletion	immune checkpoint inhibition	MTB
+BTC_0017	RAD51B	deletion	DDR repair	MTB
+BTC_0016	MTOR	indel	mTOR inhibitor	MTB
+BTC_0027	IDH2	indel	IDH inhibitor	MTB
+BTC_0028	ERBB2	weak amplification	HER2 inhibitor	MTB
+BTC_0035	MDM2	overexpression	MDM2-inhibitor	MTB
+BTC_0043	FGFR3	SNV	FGFR inhibitor	MTB
+BTC_0053	RET	overexpression	Selpercatinib	MTB
+BTC_0057	MTOR	CNV	MTOR inhibitor	MTB
+BTC_0061	NF1	SNV	MEK inhibitor	MTB
+BTC_0064	FGFR2	SNV	FGFR inhibitor	MTB
+BTC_0067	NF1	complex knock-out	MEK inhibitor	MTB
+BTC_0072	BRCA2	SNV	PARPi	MTB
+BTC0010	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008	oncokb match
+BTC0011	MET	amplification	Capmatinib; Crizotinib; Tepotinib; Telisotuzumab Vedotin	oncokb match
+BTC0013	MSI	MSI-H	Pembrolizumab; Ipilimumab + Nivolumab; Nivolumab; Dostarlimab + Carboplatin + Paclitaxel	oncokb match
+BTC0013	PIK3CA	H1047R	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant	oncokb match
+BTC0013	TMB	TMB-H	Pembrolizumab	oncokb match
+BTC0014	MDM2	amplification	Brigimadlin; Milademetan	oncokb match
+BTC0014	TMB	TMB-H	Pembrolizumab	oncokb match
+BTC0015	BRAF	V600E	"Vemurafenib; Vemurafenib + Atezolizumab + Cobimetinib; Dabrafenib + Trametinib; Encorafenib + Cetuximab; Dabrafenib; Encorafenib + Binimetinib; Trametinib; Vemurafenib + Cobimetinib; Vemurafenib, Dabrafenib; Encorafenib + Panitumumab; Selumetinib"	oncokb match
+BTC0016	PTEN	deletion	Capivasertib + Fulvestrant	oncokb match
+BTC0018	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008	oncokb match
+BTC0018	IDH1	R132H	Ivosidenib; Olutasidenib; Vorasidenib	oncokb match
+BTC0019	KRAS	G12D	"Cobimetinib, Trametinib; RMC-6236"	oncokb match
+BTC0020	EGFR	amplification	"Cetuximab, Cetuximab + Chemotherapy, Panitumumab, Panitumumab + Chemotherapy"	oncokb match
+BTC0024	ERBB2	amplification	"Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen"	oncokb match
+BTC0024	MET	amplification	Capmatinib; Crizotinib; Tepotinib; Telisotuzumab Vedotin	oncokb match
+BTC0025	TMB	TMB-H	Pembrolizumab	oncokb match
+BTC0026	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008	oncokb match
+BTC0027	PIK3CA	E545K	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant	oncokb match
+BTC0028	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib	oncokb match
+BTC0033	ERBB2	amplification	"Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen"	oncokb match
+BTC0034	MDM2	amplification	Brigimadlin; Milademetan	oncokb match
+BTC0038	ERBB2	FISH	"Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen"	oncokb match
+BTC0039	MDM2	amplification	Brigimadlin; Milademetan	oncokb match
+BTC0042	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib	oncokb match
+BTC0045	MSI	MSI-H	Pembrolizumab; Ipilimumab + Nivolumab; Nivolumab; Dostarlimab + Carboplatin + Paclitaxel	oncokb match
+BTC0045	TMB	TMB-H	Pembrolizumab	oncokb match
+BTC0052	PTEN	deletion	Capivasertib + Fulvestrant	oncokb match
+BTC0054	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib	oncokb match
+BTC0057	MDM2	amplification	Brigimadlin; Milademetan	oncokb match
+BTC0064	IDH1	R132H	Ivosidenib; Olutasidenib; Vorasidenib	oncokb match
+BTC0064	PIK3CA	E542K	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant	oncokb match
+BTC0070	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008	oncokb match
+BTC0077	KRAS	G12R	"Cobimetinib, Trametinib; RMC-6236"	oncokb match
+BTC0078	MDM2	amplification	Brigimadlin; Milademetan	oncokb match
+BTC0080	PTEN	deletion	Capivasertib + Fulvestrant	oncokb match

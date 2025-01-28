@@ -1,0 +1,54 @@
+BTCID	BTC_ID	OUTCOME	REASON	Funding	ACTION_AT_MTB	donor_factor	n.x	one_action	n.y	mtb_action
+BTC0010	BTC_0010	Targeted Therapy	Pemigatinib	Compassionate	Recommendation Made	BTC0010	1	OncoKB Matched	2	MTB match
+BTC0011	BTC_0011	Deceased or Best Supportive Care Without 2L	NA	NA	Recommendation Made	BTC0011	1	OncoKB Matched	2	MTB match
+BTC0013	BTC_0013	Targeted Therapy	Nivolumab	Other	Recommendation Made	BTC0013	3	OncoKB Matched	3	MTB match
+BTC0014	BTC_0014	Targeted Therapy	Everolimus	Compassionate	Recommendation Made	BTC0014	2	OncoKB Matched	3	MTB match
+BTC0015	BTC_0015	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0015	1	OncoKB Matched	2	MTB match
+BTC0016	BTC_0016	Non-targeted 2L Therapy	FOLFOX	NA	Recommendation Made	BTC0016	1	OncoKB Matched	2	MTB match
+BTC0017	BTC_0017	Deceased or Best Supportive Care Without 2L	NA	NA	Recommendation Made	BTC0017	NA	No OncoKB Match	2	MTB match
+BTC0018	BTC_0018	Targeted Therapy	Pemigatinib	Compassionate	Recommendation Made	BTC0018	2	OncoKB Matched	2	MTB match
+BTC0019	BTC_0019	2L Therapy	FOLFOX	NA	No Recommendation	BTC0019	1	OncoKB Matched	NA	No MTB Match
+BTC0020	BTC_0020	Deceased or Best Supportive Care Without 2L	NA	NA	Recommendation Made	BTC0020	1	OncoKB Matched	2	MTB match
+BTC0022	BTC_0022	2L Therapy	FOLFOX	NA	No Recommendation	BTC0022	NA	No OncoKB Match	NA	No MTB Match
+BTC0023	BTC_0023	Deceased or Best Supportive Care Without 2L	NA	NA	Recommendation Made	BTC0023	NA	No OncoKB Match	1	MTB match
+BTC0024	BTC_0024		NA	NA	Deceased before Recommendation	BTC0024	2	OncoKB Matched	3	MTB match
+BTC0025	BTC_0025	Targeted Therapy	Durvalumab	Compassionate	Recommendation Made	BTC0025	1	OncoKB Matched	1	MTB match
+BTC0026	BTC_0026	Non-targeted 2L Therapy	Capecitabine	NA	Recommendation Made	BTC0026	1	OncoKB Matched	1	MTB match
+BTC0027	BTC_0027	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0027	1	OncoKB Matched	3	MTB match
+BTC0028	BTC_0028	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0028	1	OncoKB Matched	3	MTB match
+BTC0029	BTC_0029	No Recurrence/Progression	NA	NA	No Recommendation	BTC0029	NA	No OncoKB Match	NA	No MTB Match
+BTC0030	BTC_0030	2L Therapy	FOLFOX	NA	No Recommendation	BTC0030	NA	No OncoKB Match	NA	No MTB Match
+BTC0033	BTC_0033	Non-targeted 2L Therapy	GemCis Rechallenge	NA	Recommendation Made	BTC0033	1	OncoKB Matched	1	MTB match
+BTC0034	BTC_0034	Non-targeted 2L Therapy	GemCis Rechallenge	NA	Recommendation Made	BTC0034	1	OncoKB Matched	2	MTB match
+BTC0035	BTC_0035	Deceased or Best Supportive Care Without 2L	NA	NA	Recommendation Made	BTC0035	NA	No OncoKB Match	1	MTB match
+BTC0036	BTC_0036	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0036	NA	No OncoKB Match	1	MTB match
+BTC0037	BTC_0037	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0037	NA	No OncoKB Match	1	MTB match
+BTC0038	BTC_0038	Targeted Therapy	Trastuzumab	Private Pay	Recommendation Made	BTC0038	1	OncoKB Matched	1	MTB match
+BTC0039	BTC_0039		NA	NA	Deceased before Recommendation	BTC0039	1	OncoKB Matched	1	MTB match
+BTC0042	BTC_0042	Targeted Therapy	Study Drug	Clinical Trial	Recommendation Made	BTC0042	1	OncoKB Matched	2	MTB match
+BTC0043	BTC_0043		NA	NA	Deceased before Recommendation	BTC0043	NA	No OncoKB Match	1	MTB match
+BTC0044	BTC_0044	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0044	NA	No OncoKB Match	1	MTB match
+BTC0045	BTC_0045	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0045	2	OncoKB Matched	1	MTB match
+BTC0049	BTC_0049	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0049	NA	No OncoKB Match	1	MTB match
+BTC0051	BTC_0051	2L Therapy	FOLFOX	NA	No Recommendation	BTC0051	NA	No OncoKB Match	NA	No MTB Match
+BTC0052	BTC_0052	No Recurrence/Progression	NA	NA	No Recommendation	BTC0052	1	OncoKB Matched	NA	No MTB Match
+BTC0053	BTC_0053	Targeted Therapy	Selpercatinib	Compassionate	Recommendation Made	BTC0053	NA	No OncoKB Match	1	MTB match
+BTC0054	BTC_0054	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0054	1	OncoKB Matched	1	MTB match
+BTC0057	BTC_0057	Non-targeted 2L Therapy	FOLFOX	NA	Recommendation Made	BTC0057	1	OncoKB Matched	1	MTB match
+BTC0058	BTC_0058	Non-targeted 2L Therapy	FOLFOX	NA	Recommendation Made	BTC0058	NA	No OncoKB Match	1	MTB match
+BTC0059	BTC_0059	Non-targeted 2L Therapy	FOLFOX	NA	Recommendation Made	BTC0059	NA	No OncoKB Match	1	MTB match
+BTC0061	BTC_0061	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0061	NA	No OncoKB Match	2	MTB match
+BTC0062	BTC_0062	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0062	NA	No OncoKB Match	1	MTB match
+BTC0063	BTC_0063	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0063	NA	No OncoKB Match	1	MTB match
+BTC0064	BTC_0064	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0064	2	OncoKB Matched	2	MTB match
+BTC0065	BTC_0065	2L Therapy	FOLFOX	NA	No Recommendation	BTC0065	NA	No OncoKB Match	NA	No MTB Match
+BTC0066	BTC_0066	No Recurrence/Progression	NA	NA	No Recommendation	BTC0066	NA	No OncoKB Match	NA	No MTB Match
+BTC0067	BTC_0067	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0067	NA	No OncoKB Match	2	MTB match
+BTC0068	BTC_0068	No Recurrence/Progression	NA	NA	No Recommendation	BTC0068	NA	No OncoKB Match	NA	No MTB Match
+BTC0069	BTC_0069		NA	NA	Deceased before Recommendation	BTC0069	NA	No OncoKB Match	2	MTB match
+BTC0070	BTC_0070	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0070	1	OncoKB Matched	1	MTB match
+BTC0071	BTC_0071	No Recurrence/Progression	NA	NA	No Recommendation	BTC0071	NA	No OncoKB Match	NA	No MTB Match
+BTC0072	BTC_0072	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0072	NA	No OncoKB Match	2	MTB match
+BTC0077	BTC_0077	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0077	1	OncoKB Matched	2	MTB match
+BTC0078	BTC_0078	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0078	1	OncoKB Matched	1	MTB match
+BTC0080	BTC_0080	No Recurrence/Progression	NA	NA	Recommendation Made	BTC0080	1	OncoKB Matched	1	MTB match

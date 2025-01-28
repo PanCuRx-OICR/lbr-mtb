@@ -1,0 +1,36 @@
+donor	gene	alteration_type	treatmentd
+BTC0010	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008
+BTC0011	MET	amplification	Capmatinib; Crizotinib; Tepotinib; Telisotuzumab Vedotin
+BTC0013	MSI	MSI-H	Pembrolizumab; Ipilimumab + Nivolumab; Nivolumab; Dostarlimab + Carboplatin + Paclitaxel
+BTC0013	PIK3CA	H1047R	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant
+BTC0013	TMB	TMB-H	Pembrolizumab
+BTC0014	MDM2	amplification	Brigimadlin; Milademetan
+BTC0014	TMB	TMB-H	Pembrolizumab
+BTC0015	BRAF	V600E	Vemurafenib; Vemurafenib + Atezolizumab + Cobimetinib; Dabrafenib + Trametinib; Encorafenib + Cetuximab; Dabrafenib; Encorafenib + Binimetinib; Trametinib; Vemurafenib + Cobimetinib; Vemurafenib, Dabrafenib; Encorafenib + Panitumumab; Selumetinib
+BTC0016	PTEN	deletion	Capivasertib + Fulvestrant
+BTC0018	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008
+BTC0018	IDH1	R132H	Ivosidenib; Olutasidenib; Vorasidenib
+BTC0019	KRAS	G12D	Cobimetinib, Trametinib; RMC-6236
+BTC0020	EGFR	amplification	Cetuximab, Cetuximab + Chemotherapy, Panitumumab, Panitumumab + Chemotherapy
+BTC0024	ERBB2	amplification	Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen
+BTC0024	MET	amplification	Capmatinib; Crizotinib; Tepotinib; Telisotuzumab Vedotin
+BTC0025	TMB	TMB-H	Pembrolizumab
+BTC0026	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008
+BTC0027	PIK3CA	E545K	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant
+BTC0028	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib
+BTC0033	ERBB2	amplification	Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen
+BTC0034	MDM2	amplification	Brigimadlin; Milademetan
+BTC0038	ERBB2	FISH	Ado-Trastuzumab Emtansine; Lapatinib + Capecitabine, Lapatinib + Letrozole; Margetuximab + Chemotherapy; Neratinib, Neratinib + Capecitabine; Trastuzumab + Pertuzumab + Chemotherapy; Trastuzumab + Tucatinib + Capecitabine; Trastuzumab Deruxtecan; Trastuzumab, Trastuzumab + Chemotherapy; Tucatinib + Trastuzumab; Pembrolizumab + Trastuzumab + Chemotherapy; Trastuzumab + Chemotherapy; Trastuzumab + Pertuzumab; Lapatinib + Trastuzumab; Trastuzumab + Carboplatin-Taxol Regimen
+BTC0039	MDM2	amplification	Brigimadlin; Milademetan
+BTC0042	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib
+BTC0045	MSI	MSI-H	Pembrolizumab; Ipilimumab + Nivolumab; Nivolumab; Dostarlimab + Carboplatin + Paclitaxel
+BTC0045	TMB	TMB-H	Pembrolizumab
+BTC0052	PTEN	deletion	Capivasertib + Fulvestrant
+BTC0054	IDH1	R132C	Ivosidenib; Olutasidenib; Vorasidenib
+BTC0057	MDM2	amplification	Brigimadlin; Milademetan
+BTC0064	IDH1	R132H	Ivosidenib; Olutasidenib; Vorasidenib
+BTC0064	PIK3CA	E542K	Alpelisib + Fulvestrant; Capivasertib + Fulvestrant
+BTC0070	FGFR2	fusion	Futibatinib; Pemigatinib; RLY-4008
+BTC0077	KRAS	G12R	Cobimetinib, Trametinib; RMC-6236
+BTC0078	MDM2	amplification	Brigimadlin; Milademetan
+BTC0080	PTEN	deletion	Capivasertib + Fulvestrant

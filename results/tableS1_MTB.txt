@@ -1,0 +1,39 @@
+BTC_ID	gene	variant_type	therapy	OncoKb
+BTC_0011	CDK6	strong amplification	CDK4/6 inhibitor	new biomarker
+BTC_0017	PBRM1	indel	PARPi	new biomarker
+BTC_0024	CDK6	strong amplification	CDK4/6 inhibitor	new biomarker
+BTC_0014	STK11	indel	mTOR inhibitor	new biomarker
+BTC_0014	STK11	indel	DDR repair	new biomarker
+BTC_0034	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0037	HAS2	strong amplification	HAS2 inhibitor	new biomarker
+BTC_0036	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0038	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0044	MTAP	NA	PRMT5 inhibitor	new biomarker
+BTC_0042	MTAP	NA	PRMT5 inhibitor	new biomarker
+BTC_0056	HRD	HRD	NA	new biomarker
+BTC_0059	MTAP	CNV	PRMT5 inhibitor	new biomarker
+BTC_0058	MTAP	CNV	PRMT5 inhibitor	new biomarker
+BTC_0061	HRD	HRD	PARPi	new biomarker
+BTC_0067	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0062	RASGRF2	fusion	MEK inhibitor	new biomarker
+BTC_0063	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0049	BAP1	SNV	PARPi	new biomarker
+BTC_0069	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0069	MTAP	deletion	MAT2A inhibitor	new biomarker
+BTC_0072	HRD	HRD	NA	new biomarker
+BTC_0078	CCNE1	strong amplification	CCNE1 targeting	new biomarker
+BTC_0080	HRD	HRD	NA	new biomarker
+BTC_0077	MTAP	deletion	PRMT5 inhibitor	new biomarker
+BTC_0013	MLH1	deletion	immune checkpoint inhibition	unknown variant effect
+BTC_0017	RAD51B	deletion	DDR repair	unknown variant effect
+BTC_0016	MTOR	indel	mTOR inhibitor	unknown variant effect
+BTC_0027	IDH2	indel	IDH inhibitor	unknown variant effect
+BTC_0028	ERBB2	weak amplification	HER2 inhibitor	unknown variant effect
+BTC_0035	MDM2	overexpression	MDM2-inhibitor	unknown variant effect
+BTC_0043	FGFR3	SNV	FGFR inhibitor	unknown variant effect
+BTC_0053	RET	overexpression	NA	unknown variant effect
+BTC_0057	MTOR	CNV	MTOR inhibitor	unknown variant effect
+BTC_0061	NF1	SNV	MEK inhibitor	unknown variant effect
+BTC_0064	FGFR2	SNV	FGFR inhibitor	unknown variant effect
+BTC_0067	NF1	complex knock-out	MEK inhibitor	unknown variant effect
+BTC_0072	BRCA2	SNV	NA	unknown variant effect
